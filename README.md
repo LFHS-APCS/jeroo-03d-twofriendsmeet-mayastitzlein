@@ -1,3 +1,4 @@
+[![Work in Repl.it](https://classroom.github.com/assets/work-in-replit-14baed9a392b3a25080506f3b7b6d57f295ec2978f6f33ec97e36a161684cbe9.svg)](https://classroom.github.com/online_ide?assignment_repo_id=3278529&assignment_repo_type=AssignmentRepo)
 All work will be in Main.java (unless you want to use a helper method, but that is not required).
 
 One Saturday morning, two friends, Bugs and Daffy, decide to meet and plant flowers to beautify Santong island. 
